@@ -1,4 +1,3 @@
-# Avi Feder && Daniel Yochanan
 from arp_table import ARPTABLE
 import argparse
 from time import sleep
