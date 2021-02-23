@@ -1,0 +1,55 @@
+;
+; Start view _default
+;
+;
+; Cache dump of view '_default' (cache _default)
+;
+; using a 43200 second stale ttl
+$DATE 20201124043240
+
+; answer
+dlink.com.		48230	A	192.168.68.1
+	41981	A	157.240.221.16
+; answer
+tplinkdeco.net.		43105	A	192.168.68.1
+
+; . SOA a.root-servers.net. nstld.verisign-grs.com. 2020112400 1800 900 604800 86400
+;
+; Address database dump
+;
+; [edns success/4096 timeout/1432 timeout/1232 timeout/512 timeout]
+; [plain success/timeout]
+;
+;
+; Unassociated entries
+;
+;
+; Bad cache
+;
+;
+; SERVFAIL cache
+;
+;
+; Start view _bind
+;
+;
+; Cache dump of view '_bind' (cache _bind)
+;
+; using a 43200 second stale ttl
+$DATE 20201124043240
+;
+; Address database dump
+;
+; [edns success/4096 timeout/1432 timeout/1232 timeout/512 timeout]
+; [plain success/timeout]
+;
+;
+; Unassociated entries
+;
+;
+; Bad cache
+;
+;
+; SERVFAIL cache
+;
+; Dump complete
